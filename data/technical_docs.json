@@ -1,0 +1,53 @@
+{
+  "system speaker": {
+    "not working": {
+      "category": "Audio System",
+      "steps": [
+        "Check power connection",
+        "Verify audio cable connection",
+        "Test with different audio source",
+        "Check volume settings",
+        "Replace speaker unit"
+      ]
+    }
+  },
+
+  "inverter battery": {
+    "not charging": {
+      "category": "Power System",
+      "steps": [
+        "Check terminal connections",
+        "Measure battery voltage",
+        "Check charger output voltage",
+        "Inspect charging circuit",
+        "Replace charging module"
+      ]
+    }
+  },
+
+  "wifi router": {
+    "no internet": {
+      "category": "Network System",
+      "steps": [
+        "Check router power",
+        "Restart router",
+        "Check WAN cable",
+        "Check ISP status",
+        "Reset router configuration"
+      ]
+    }
+  },
+
+  "laptop": {
+    "not turning on": {
+      "category": "Computer Hardware",
+      "steps": [
+        "Check power adapter",
+        "Remove battery and reconnect",
+        "Test power button",
+        "Check motherboard indicators",
+        "Replace power circuit"
+      ]
+    }
+  }
+}
