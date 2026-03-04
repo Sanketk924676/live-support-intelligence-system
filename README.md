@@ -115,7 +115,7 @@ README.md
 
 ## 1 Clone Repository
 
-git clone https://github.com/YOUR_USERNAME/live-support-intelligence-system.git  
+git clone https://github.com/Sanketk924676/live-support-intelligence-system.git  
 cd live-support-intelligence-system  
 
 ---
@@ -316,3 +316,4 @@ Sanket Kerannavar
 # License
 
 This project is intended for educational and demonstration purposes.
+
